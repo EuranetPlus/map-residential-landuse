@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuri osa käytettävissä olevasta tilasta on asumisen käytössä?",
+  "subtitle": "Keskimäärin 3,72 % EU:n käytettävissä olevasta maa-alueesta on asuinkäytössä. Tämä on 28 % enemmän kuin vuonna 2018.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Asuinrakennuksiin kuuluvat myös asuinpuutarhat.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2022)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "käytetään asuinkäyttöön",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
