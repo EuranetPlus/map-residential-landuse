@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm miż-żona disponibbli tintuża għad-djar?",
+  "subtitle": "Bħala medja, 3.72% tal-art disponibbli tal-UE tintuża għal skopijiet residenzjali. Dan jirrappreżenta żieda ta’ 28% meta mqabbel mal-2018.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-akkomodazzjoni residenzjali tinkludi ġonna residenzjali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2022)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "użat għal skopijiet residenzjali",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
