@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kolikšen del razpoložljive površine se uporablja za stanovanja?",
+  "subtitle": "V povprečju se 3,72 % razpoložljive površine EU uporablja za stanovanjske namene. To predstavlja 28-odstotno povečanje v primerjavi z letom 2018.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Stanovanjski objekti vključujejo stanovanjske vrtove.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2022)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "uporablja se za stanovanjske namene",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
