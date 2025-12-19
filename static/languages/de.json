@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel der verfügbaren Fläche wird für Wohnzwecke genutzt?",
+  "subtitle": "Im Durchschnitt werden 3,72 % der verfügbaren Landfläche der EU für Wohnzwecke genutzt. Dies entspricht einem Anstieg von 28 % gegenüber 2018.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Zu Wohngebieten gehören auch Wohngärten.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2022)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "für Wohnzwecke",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
