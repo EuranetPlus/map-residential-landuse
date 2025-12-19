@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad den achar atá ar fáil atá in úsáid le haghaidh tithíochta?",
+  "subtitle": "Ar an meán, úsáidtear 3.72% den achar talún atá ar fáil san AE chun críocha cónaithe. Léiríonn sé seo méadú 28% i gcomparáid le 2018.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Áirítear le tithíocht chónaithe gairdíní cónaithe.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2022)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "a úsáidtear chun críocha cónaithe",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
